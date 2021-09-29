@@ -1,0 +1,10 @@
+VisualSVN Server = VisualSVN Server <VisualSVN Server>
+abramath = abramath <abramath>
+ajitloka = ajitloka <ajitloka>
+cararams = cararams <cararams>
+charchau = charchau <charchau>
+javesune = javesune <javesune>
+jerepalm = jerepalm <jerepalm>
+jimmchin = jimmchin <jimmchin>
+robintan = robintan <robintan>
+sys-volantdev = sys-volantdev <sys-volantdev>
